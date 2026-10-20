@@ -1,0 +1,35 @@
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #567c8d/*#2f4156*/;
+  color: #f5efeb;
+  text-align: center;
+}
+
+h1 {
+  margin: 2rem 0;
+  line-height: 1.4;
+  font-size: 2rem;
+}
+
+#text-input {
+  width: 100%;
+  max-width: 250px;
+  height: 100px;
+
+  padding: 1rem;
+  margin-bottom: 2rem;
+
+  border: 1px solid;
+  border-radius: 0.5rem;
+
+  background-color: #f5efeb;
+}
+
+#char-count {
+  font-size: 1.1rem;
+}
