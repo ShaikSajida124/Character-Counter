@@ -17,4 +17,4 @@ A simple JavaScript project built as part of the freeCodeCamp curriculum. It cou
 - Updating the DOM dynamically
 
 ## 🔗 Live Demo
-[View Project](YOUR-LIVE-LINK)
+[View Project](https://shaiksajida124.github.io/Character-Counter/)
